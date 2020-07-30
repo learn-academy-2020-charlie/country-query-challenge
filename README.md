@@ -13,9 +13,9 @@
 - cd into folder
 - $ bundle
 - $ yarn
-- $ rails db: create
+- $ rails db:create
 - $ psql country < ~/Desktop/countries.sql
-- $ rspec ./spec/models/country_query_specs.rb
+- $ rspec spec/models/country_query_specs.rb
 
 ## Process
 - This application has a spec file of failing tests in *spec/models/country_queries_spec.rb*
